@@ -1,5 +1,6 @@
 areaName,date,newCasesByPublishDate,cumCasesByPublishDate,maleCases,femaleCases,cumCasesByPublishDateRate,cumDeaths28DaysByPublishDateRate,newDeaths28DaysByPublishDate,cumDeaths28DaysByPublishDate
-England,2020-08-21,908,279459,"[{'age': '65_to_69', 'value': 6467, 'rate': 478}, {'age': '90+', 'value': 5832, 'rate': 3508.3}, {'age': '5_to_9', 'value': 1171, 'rate': 64.7}, {'age': '10_to_14', 'value': 1316, 'rate': 72.6}, {'age': '70_to_74', 'value': 7138, 'rate': 536.6}, {'age': '35_to_39', 'value': 7419, 'rate': 390.4}, {'age': '15_to_19', 'value': 2413, 'rate': 140.3}, {'age': '80_to_84', 'value': 9136, 'rate': 1437.7}, {'age': '85_to_89', 'value': 8051, 'rate': 2294.7}, {'age': '55_to_59', 'value': 9098, 'rate': 472.2}, {'age': '20_to_24', 'value': 5103, 'rate': 321.4}, {'age': '40_to_44', 'value': 7401, 'rate': 400.2}, {'age': '0_to_4', 'value': 1121, 'rate': 66.2}, {'age': '50_to_54', 'value': 9198, 'rate': 500.1}, {'age': '25_to_29', 'value': 7371, 'rate': 411.2}, {'age': '60_to_64', 'value': 7839, 'rate': 513.3}, {'age': '75_to_79', 'value': 7906, 'rate': 877.8}, {'age': '45_to_49', 'value': 8381, 'rate': 492.9}, {'age': '30_to_34', 'value': 7933, 'rate': 410.4}]","[{'age': '50_to_54', 'value': 13123, 'rate': 699.3}, {'age': '70_to_74', 'value': 5276, 'rate': 364.1}, {'age': '0_to_4', 'value': 996, 'rate': 62}, {'age': '60_to_64', 'value': 8127, 'rate': 512.9}, {'age': '65_to_69', 'value': 4861, 'rate': 336.6}, {'age': '90+', 'value': 12047, 'rate': 3431.8}, {'age': '30_to_34', 'value': 11930, 'rate': 638.6}, {'age': '35_to_39', 'value': 10420, 'rate': 546.3}, {'age': '55_to_59', 'value': 11758, 'rate': 593.7}, {'age': '40_to_44', 'value': 10717, 'rate': 568.7}, {'age': '75_to_79', 'value': 6605, 'rate': 635.1}, {'age': '20_to_24', 'value': 9141, 'rate': 608.4}, {'age': '10_to_14', 'value': 1260, 'rate': 73}, {'age': '85_to_89', 'value': 10688, 'rate': 2020.7}, {'age': '45_to_49', 'value': 12132, 'rate': 707.8}, {'age': '5_to_9', 'value': 1088, 'rate': 58.5}, {'age': '25_to_29', 'value': 12734, 'rate': 751.2}, {'age': '15_to_19', 'value': 3348, 'rate': 204.8}, {'age': '80_to_84', 'value': 9143, 'rate': 1136.5}]",496.5,65.3,2,36765
+England,2020-08-22,1060,280519,,,498.4,65.3,17,36782
+England,2020-08-21,908,279459,"[{'age': '20_to_24', 'value': 5185, 'rate': 326.6}, {'age': '35_to_39', 'value': 7464, 'rate': 392.7}, {'age': '70_to_74', 'value': 7143, 'rate': 537}, {'age': '60_to_64', 'value': 7859, 'rate': 514.6}, {'age': '10_to_14', 'value': 1326, 'rate': 73.2}, {'age': '40_to_44', 'value': 7436, 'rate': 402.1}, {'age': '30_to_34', 'value': 7993, 'rate': 413.5}, {'age': '25_to_29', 'value': 7442, 'rate': 415.1}, {'age': '0_to_4', 'value': 1134, 'rate': 67}, {'age': '50_to_54', 'value': 9222, 'rate': 501.4}, {'age': '80_to_84', 'value': 9139, 'rate': 1438.2}, {'age': '15_to_19', 'value': 2453, 'rate': 142.7}, {'age': '45_to_49', 'value': 8420, 'rate': 495.2}, {'age': '55_to_59', 'value': 9125, 'rate': 473.6}, {'age': '75_to_79', 'value': 7911, 'rate': 878.3}, {'age': '85_to_89', 'value': 8056, 'rate': 2296.1}, {'age': '65_to_69', 'value': 6482, 'rate': 479.2}, {'age': '5_to_9', 'value': 1180, 'rate': 65.2}, {'age': '90+', 'value': 5835, 'rate': 3510.1}]","[{'age': '55_to_59', 'value': 11789, 'rate': 595.2}, {'age': '50_to_54', 'value': 13145, 'rate': 700.5}, {'age': '10_to_14', 'value': 1276, 'rate': 73.9}, {'age': '5_to_9', 'value': 1098, 'rate': 59}, {'age': '70_to_74', 'value': 5283, 'rate': 364.6}, {'age': '85_to_89', 'value': 10694, 'rate': 2021.8}, {'age': '80_to_84', 'value': 9151, 'rate': 1137.5}, {'age': '75_to_79', 'value': 6605, 'rate': 635.1}, {'age': '45_to_49', 'value': 12176, 'rate': 710.3}, {'age': '90+', 'value': 12053, 'rate': 3433.5}, {'age': '40_to_44', 'value': 10751, 'rate': 570.5}, {'age': '20_to_24', 'value': 9237, 'rate': 614.8}, {'age': '0_to_4', 'value': 1010, 'rate': 62.9}, {'age': '15_to_19', 'value': 3408, 'rate': 208.5}, {'age': '60_to_64', 'value': 8151, 'rate': 514.4}, {'age': '35_to_39', 'value': 10453, 'rate': 548}, {'age': '65_to_69', 'value': 4871, 'rate': 337.3}, {'age': '25_to_29', 'value': 12807, 'rate': 755.5}, {'age': '30_to_34', 'value': 11983, 'rate': 641.4}]",496.5,65.3,2,36765
 England,2020-08-20,1035,278551,,,494.9,65.3,6,36763
 England,2020-08-19,707,277516,,,493,65.3,15,36757
 England,2020-08-18,975,276809,,,491.8,65.3,11,36742
@@ -231,6 +232,7 @@ England,2020-01-06,0,,,,,,,
 England,2020-01-05,0,,,,,,,
 England,2020-01-04,0,,,,,,,
 England,2020-01-03,0,,,,,,,
+Northern Ireland,2020-08-22,71,6647,,,351,29.5,,559
 Northern Ireland,2020-08-21,20,6576,,,347.3,29.5,0,559
 Northern Ireland,2020-08-20,51,6556,,,346.2,29.5,0,559
 Northern Ireland,2020-08-19,34,6505,,,343.5,29.5,0,559
@@ -463,6 +465,7 @@ Northern Ireland,2020-01-06,0,,,,,,,
 Northern Ireland,2020-01-05,0,,,,,,,
 Northern Ireland,2020-01-04,0,,,,,,,
 Northern Ireland,2020-01-03,0,,,,,,,
+Scotland,2020-08-22,123,19728,,,361.1,45.6,0,2492
 Scotland,2020-08-21,71,19605,,,358.8,45.6,0,2492
 Scotland,2020-08-20,77,19534,,,357.5,45.6,0,2492
 Scotland,2020-08-19,50,19457,,,356.1,45.6,1,2492
@@ -695,6 +698,7 @@ Scotland,2020-01-06,0,,,,,,,
 Scotland,2020-01-05,0,,,,,,,
 Scotland,2020-01-04,0,,,,,,,
 Scotland,2020-01-03,0,,,,,,,
+Wales,2020-08-22,34,17707,,,561.6,50.4,1,1590
 Wales,2020-08-21,34,17673,,,560.5,50.4,0,1589
 Wales,2020-08-20,19,17639,,,559.5,50.4,0,1589
 Wales,2020-08-19,21,17620,,,558.9,50.4,0,1589
