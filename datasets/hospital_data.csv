@@ -1,6 +1,6 @@
 areaName,date,newAdmissions,cumAdmissions,cumAdmissionsByAge,cumTestsByPublishDate,newTestsByPublishDate,covidOccupiedMVBeds,hospitalCases
 England,2020-08-21,,,,,,64,480
-England,2020-08-20,,,,1.07621e+07,149876,64,516
+England,2020-08-20,17,113198,"[{'age': '0_to_5', 'value': 686, 'rate': 16.9}, {'age': '65_to_84', 'value': 47340, 'rate': 537.1}, {'age': '6_to_17', 'value': 618, 'rate': 7.8}, {'age': '18_to_64', 'value': 36134, 'rate': 106.8}, {'age': '85+', 'value': 25012, 'rate': 1832.4}]",1.07621e+07,149876,64,516
 England,2020-08-19,58,113181,"[{'age': '0_to_5', 'value': 685, 'rate': 16.9}, {'age': '65_to_84', 'value': 47330, 'rate': 537}, {'age': '6_to_17', 'value': 618, 'rate': 7.8}, {'age': '18_to_64', 'value': 36093, 'rate': 106.6}, {'age': '85+', 'value': 25007, 'rate': 1832}]",1.06097e+07,133540,63,523
 England,2020-08-18,56,113123,"[{'age': '0_to_5', 'value': 685, 'rate': 16.9}, {'age': '65_to_84', 'value': 47308, 'rate': 536.7}, {'age': '6_to_17', 'value': 617, 'rate': 7.8}, {'age': '18_to_64', 'value': 36067, 'rate': 106.6}, {'age': '85+', 'value': 25000, 'rate': 1831.5}]",1.04762e+07,119749,64,545
 England,2020-08-17,46,113067,"[{'age': '0_to_5', 'value': 685, 'rate': 16.9}, {'age': '65_to_84', 'value': 47293, 'rate': 536.6}, {'age': '6_to_17', 'value': 616, 'rate': 7.8}, {'age': '18_to_64', 'value': 36045, 'rate': 106.5}, {'age': '85+', 'value': 24992, 'rate': 1830.9}]",1.03564e+07,141677,67,572
@@ -330,6 +330,7 @@ Northern Ireland,2020-03-04,0,1,,,,,11
 Northern Ireland,2020-03-03,0,1,,,,,11
 Northern Ireland,2020-03-02,1,1,,,,,11
 Northern Ireland,2020-03-01,,,,,,,10
+Scotland,2020-08-23,,,,988603,18794,,
 Scotland,2020-08-22,,,,969809,15096,,
 Scotland,2020-08-21,,,,954713,15319,2,254
 Scotland,2020-08-20,,,,939394,16901,2,249
@@ -505,6 +506,7 @@ Scotland,2020-03-04,11,40,,,,,
 Scotland,2020-03-03,13,29,,,,,
 Scotland,2020-03-02,11,16,,,,,
 Scotland,2020-03-01,5,5,,,,,
+Wales,2020-08-23,,,,515672,5023,,
 Wales,2020-08-22,,,,510649,5021,,
 Wales,2020-08-21,54,13543,,505628,4443,6,55
 Wales,2020-08-20,39,13489,,497223,3962,10,59
