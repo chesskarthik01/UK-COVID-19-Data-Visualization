@@ -1,6 +1,9 @@
 areaName,date,newAdmissions,cumAdmissions,cumAdmissionsByAge,cumTestsByPublishDate,newTestsByPublishDate,covidOccupiedMVBeds,hospitalCases
-England,2020-08-28,,,,,,52,430
-England,2020-08-27,,,,,,62,449
+England,2020-08-31,,,,,,33,305
+England,2020-08-30,,,,,,32,290
+England,2020-08-29,34,113608,"[{'age': '0_to_5', 'value': 698, 'rate': 17.2}, {'age': '65_to_84', 'value': 47470, 'rate': 538.6}, {'age': '6_to_17', 'value': 621, 'rate': 7.9}, {'age': '18_to_64', 'value': 36326, 'rate': 107.3}, {'age': '85+', 'value': 25069, 'rate': 1836.6}]",,,37,280
+England,2020-08-28,33,113574,"[{'age': '0_to_5', 'value': 694, 'rate': 17.1}, {'age': '65_to_84', 'value': 47461, 'rate': 538.5}, {'age': '6_to_17', 'value': 621, 'rate': 7.9}, {'age': '18_to_64', 'value': 36311, 'rate': 107.3}, {'age': '85+', 'value': 25064, 'rate': 1836.2}]",,,52,430
+England,2020-08-27,44,113541,"[{'age': '0_to_5', 'value': 692, 'rate': 17.1}, {'age': '65_to_84', 'value': 47444, 'rate': 538.3}, {'age': '6_to_17', 'value': 621, 'rate': 7.9}, {'age': '18_to_64', 'value': 36296, 'rate': 107.2}, {'age': '85+', 'value': 25054, 'rate': 1835.5}]",,,62,449
 England,2020-08-26,52,113497,"[{'age': '0_to_5', 'value': 690, 'rate': 17}, {'age': '65_to_84', 'value': 47432, 'rate': 538.1}, {'age': '6_to_17', 'value': 620, 'rate': 7.8}, {'age': '18_to_64', 'value': 36267, 'rate': 107.2}, {'age': '85+', 'value': 25046, 'rate': 1834.9}]",1.15986e+07,129698,55,442
 England,2020-08-25,60,113445,"[{'age': '0_to_5', 'value': 690, 'rate': 17}, {'age': '65_to_84', 'value': 47409, 'rate': 537.9}, {'age': '6_to_17', 'value': 620, 'rate': 7.8}, {'age': '18_to_64', 'value': 36235, 'rate': 107.1}, {'age': '85+', 'value': 25041, 'rate': 1834.5}]",1.14477e+07,110927,62,459
 England,2020-08-24,41,113385,"[{'age': '0_to_5', 'value': 689, 'rate': 17}, {'age': '65_to_84', 'value': 47393, 'rate': 537.7}, {'age': '6_to_17', 'value': 620, 'rate': 7.8}, {'age': '18_to_64', 'value': 36219, 'rate': 107}, {'age': '85+', 'value': 25033, 'rate': 1833.9}]",1.13368e+07,135586,62,474
@@ -162,6 +165,7 @@ England,2020-03-22,859,2913,"[{'age': '0_to_5', 'value': 11, 'rate': 0.300000000
 England,2020-03-21,777,2054,"[{'age': '0_to_5', 'value': 10, 'rate': 0.2}, {'age': '65_to_84', 'value': 590, 'rate': 6.7}, {'age': '6_to_17', 'value': 13, 'rate': 0.2}, {'age': '18_to_64', 'value': 504, 'rate': 1.5}, {'age': '85+', 'value': 288, 'rate': 21.1}]",,,,2092
 England,2020-03-20,691,1277,"[{'age': '0_to_5', 'value': 10, 'rate': 0.2}, {'age': '65_to_84', 'value': 354, 'rate': 4}, {'age': '6_to_17', 'value': 5, 'rate': 0.1}, {'age': '18_to_64', 'value': 291, 'rate': 0.9}, {'age': '85+', 'value': 172, 'rate': 12.6}]",,,,1541
 England,2020-03-19,586,586,"[{'age': '0_to_5', 'value': 6, 'rate': 0.1}, {'age': '65_to_84', 'value': 145, 'rate': 1.6}, {'age': '6_to_17', 'value': 0, 'rate': 0}, {'age': '18_to_64', 'value': 120, 'rate': 0.4}, {'age': '85+', 'value': 75, 'rate': 5.5}]",,,,
+Northern Ireland,2020-08-31,,,,306413,4951,,
 Northern Ireland,2020-08-30,,,,301462,4848,,
 Northern Ireland,2020-08-29,,,,296614,5735,,
 Northern Ireland,2020-08-28,,,,290879,6325,2,
@@ -345,6 +349,7 @@ Northern Ireland,2020-03-04,0,1,,,,,11
 Northern Ireland,2020-03-03,0,1,,,,,11
 Northern Ireland,2020-03-02,1,1,,,,,11
 Northern Ireland,2020-03-01,,,,,,,10
+Scotland,2020-08-31,,,,1.15422e+06,26318,,
 Scotland,2020-08-30,,,,1.1279e+06,26786,,
 Scotland,2020-08-29,,,,1.10111e+06,21112,,
 Scotland,2020-08-28,,,,1.08e+06,15654,3,255
@@ -528,6 +533,7 @@ Scotland,2020-03-04,11,40,,,,,
 Scotland,2020-03-03,13,29,,,,,
 Scotland,2020-03-02,11,16,,,,,
 Scotland,2020-03-01,5,5,,,,,
+Wales,2020-08-31,,,,557187,4423,,
 Wales,2020-08-30,,,,552764,6521,,
 Wales,2020-08-29,,,,546243,5039,,
 Wales,2020-08-28,83,13915,,541207,4704,3,41
