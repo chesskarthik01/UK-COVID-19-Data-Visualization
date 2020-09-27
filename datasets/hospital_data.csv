@@ -1,6 +1,7 @@
 areaName,date,newAdmissions,cumAdmissions,cumAdmissionsByAge,cumTestsByPublishDate,newTestsByPublishDate,covidOccupiedMVBeds,hospitalCases
+England,2020-09-27,,,,,,233,1721
 England,2020-09-26,,,,,,223,1622
-England,2020-09-25,,,,216636,216636,227,1615
+England,2020-09-25,274,117910,"[{'age': '0_to_5', 'value': 749, 'rate': 18.5}, {'age': '65_to_84', 'value': 49077, 'rate': 556.8}, {'age': '6_to_17', 'value': 673, 'rate': 8.5}, {'age': '18_to_64', 'value': 38102, 'rate': 112.6}, {'age': '85+', 'value': 25645, 'rate': 1878.8}]",216636,216636,227,1615
 England,2020-09-24,288,117636,"[{'age': '0_to_5', 'value': 745, 'rate': 18.4}, {'age': '65_to_84', 'value': 48963, 'rate': 555.5}, {'age': '6_to_17', 'value': 671, 'rate': 8.5}, {'age': '18_to_64', 'value': 37971, 'rate': 112.2}, {'age': '85+', 'value': 25608, 'rate': 1876.1}]",205663,205663,209,1481
 England,2020-09-23,314,117348,"[{'age': '0_to_5', 'value': 742, 'rate': 18.3}, {'age': '65_to_84', 'value': 48839, 'rate': 554.1}, {'age': '6_to_17', 'value': 664, 'rate': 8.4}, {'age': '18_to_64', 'value': 37830, 'rate': 111.8}, {'age': '85+', 'value': 25569, 'rate': 1873.2}]",194493,194493,192,1381
 England,2020-09-22,268,117034,"[{'age': '0_to_5', 'value': 741, 'rate': 18.3}, {'age': '65_to_84', 'value': 48731, 'rate': 552.9}, {'age': '6_to_17', 'value': 659, 'rate': 8.3}, {'age': '18_to_64', 'value': 37708, 'rate': 111.4}, {'age': '85+', 'value': 25537, 'rate': 1870.9}]",166199,166199,179,1335
